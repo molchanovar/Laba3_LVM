@@ -1,5 +1,5 @@
 # Laba3_LVM
-Manipulations with LVM 
+<h4>Manipulations with LVM </h4>
 
 
 Файл <B>Commands</B> - описание команд для манипуляций с LVM;    
@@ -11,7 +11,7 @@ Manipulations with LVM
 <B>/dev/mapper/VolGroup00-LogVol00 38G 738M 37G 2% /</B>
 
 
-Сделано следующее:
+<h4>Сделано следующее:</h4>
 
 <p>уменьшен том под / до 8G</p>
 <p>выделен том под /home</p>
