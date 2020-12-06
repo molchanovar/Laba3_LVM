@@ -3,7 +3,7 @@ Manipulations with LVM
 
 
 Файл Commands - описание команд для манипуляций с LVM;    
-Файл Loggin - логи всех действий с ОС; 
+Файл Loggin - логи всех действий с ОС;        
 VagrantFile - исходный стенд для работы с LVM; 
 
 Работа с LVM 
