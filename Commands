@@ -87,7 +87,7 @@ lvconvert --merge /dev/VolGroup00/home_snap
 mount /home
 
 
-# Финальный результат в <b>lsblk</b>
+# Финальный результат в lsblk
 [root@lvm ~]# lsblk 
 NAME                       MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
 sda                          8:0    0   40G  0 disk 
